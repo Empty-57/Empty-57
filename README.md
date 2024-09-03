@@ -1,7 +1,11 @@
 <div align="center">
 I am a 20-year-old programming enthusiast
-  
+
 You can call me `Sorako`
+
+[![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me-acedf4?style=for-the-badge>)](#)
+
+![Visitor Count](https://profile-counter.glitch.me/Empty-57/count.svg)
 
 
 ## Skills
