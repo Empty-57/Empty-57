@@ -1,18 +1,25 @@
+<div align="center">
 I am a 20-year-old programming enthusiast and also a boring person
+  
+You can call me `Sorako`
 
-You can call me Sorako([Empty](https://github.com/Empty-57))
 
-<center>markdown居中测试</center>
+## Skills
 
-### 平时干什么？
-喜欢玩Minecraft,Galgame(
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffee54)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23FD7F1E)](#)
 
-偶尔写点代码,会一点python和前端
+### Studying
 
----
+[![Java](https://img.shields.io/badge/java-2E4A1F?style=for-the-badge&logo=java&logoColor=ffdd54)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-368EA0?style=for-the-badge&logo=kotlin&logoColor=%237FDF1E)](#)
 
-目前在学：java，kotlin
+## Other
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empty-57&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=Empty-57&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
+</div>
+
+
+
