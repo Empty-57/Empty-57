@@ -1,5 +1,5 @@
 <div align="center">
-I am a 20-year-old programming enthusiast and also a boring person
+I am a 20-year-old programming enthusiast
   
 You can call me `Sorako`
 
