@@ -1,16 +1,18 @@
-## Hi there 👋
+I am a 20-year-old programming enthusiast and also a boring person
 
-<!--
-**Empty-57/Empty-57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Sorako([Empty](https://github.com/Empty-57))
 
-Here are some ideas to get you started:
+<center>markdown居中测试</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 平时干什么？
+喜欢玩Minecraft,Galgame(
+
+偶尔写点代码,会一点python和前端
+
+---
+
+目前在学：java，kotlin
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empty-57&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=Empty-57&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
