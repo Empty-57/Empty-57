@@ -5,6 +5,8 @@ You can call me `Empty`
 
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me-acedf4?style=for-the-badge>)](#)
 
+![暗色](https://raw.githubusercontent.com/Empty-57/Directory/output/github-contribution-grid-snake-dark.svg)
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,fastapi)](https://skillicons.dev)
