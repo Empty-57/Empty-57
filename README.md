@@ -1,19 +1,17 @@
 <div align="center">
 I am a 20-year-old programming enthusiast
 
-You can call me `Sorako`
+You can call me `Empty`
 
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me-acedf4?style=for-the-badge>)](#)
 
 ### Skills
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffee54)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23FD7F1E)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,fastapi)](https://skillicons.dev)
 
 #### Studying
 
-[![Java](https://img.shields.io/badge/java-2E4A1F?style=for-the-badge&logo=java&logoColor=ffdd54)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-368EA0?style=for-the-badge&logo=kotlin&logoColor=%237FDF1E)](#)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,electron)](https://skillicons.dev)
 
 #### Other
 
