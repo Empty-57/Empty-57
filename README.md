@@ -7,11 +7,11 @@ You can call me `Empty`
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,vue,python,fastapi,dart,electron,flutter)](https://skillicons.dev)
 
 #### Studying
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,rust)](https://skillicons.dev)
 
 #### Other
 
