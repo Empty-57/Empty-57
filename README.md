@@ -6,6 +6,7 @@
 </a>
 
 ### Hi, I'm *[Empty](https://github.com/Empty-57)* ! 👋
+[![wakatime](https://wakatime.com/badge/user/7dfa2142-9f15-461d-ba44-2a9e14966a3b.svg?style=for-the-badge)](https://wakatime.com/@7dfa2142-9f15-461d-ba44-2a9e14966a3b)
 
 #### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,vue,python,fastapi,dart,electron,flutter,tailwind,idea&perline=5)](https://skillicons.dev)
