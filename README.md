@@ -1,9 +1,11 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Empty-57&show=reviews&count_private=true&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false" alt="Empty-57's GitHub stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empty-57&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</a>
+ <img align="right" width="50%"
+      src="https://github-stats-extended.vercel.app/api?username=Empty-57&show=reviews&count_private=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true"
+      alt="Github Stats"
+    />
+ <img align="right" width="50%"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Empty-57&layout=donut&theme=transparent&hide_border=true"
+      alt="Top Langs"
+ />
 
 ### Hi, I'm *[Empty](https://github.com/Empty-57)* ! 👋
 [![wakatime](https://wakatime.com/badge/user/7dfa2142-9f15-461d-ba44-2a9e14966a3b.svg?style=for-the-badge)](https://wakatime.com/@7dfa2142-9f15-461d-ba44-2a9e14966a3b)
@@ -13,6 +15,8 @@
 
 #### Studying:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,rust)](https://skillicons.dev)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Empty-57/Empty-57/output/github-contribution-grid-snake-dark.svg">
